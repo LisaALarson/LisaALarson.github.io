@@ -1,0 +1,44 @@
+.jumbotron {
+  background-image:url('https://mchacongonzalez.files.wordpress.com/2010/11/cropped-computer_banner_blue.jpg');
+  height: 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+	background-color: #336699
+}
+
+#pic {
+	float: right;
+}
+
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+p {
+    font-family: "Arial", Arial, sans-serif;
+}
+
+h1 {
+    font-family: "Arial", Arial, sans-serif;
+}
+
+h2 {
+    font-family: "Arial", Arial, sans-serif;
+}
+
+h3 {
+    font-family: "Arial", Arial, sans-serif;
+}
+
+h4 {
+    font-family: "Lucinda Sans Unicode", Lucinda Grande, sans-serif;
+}
+
+h2 {
+	text-decoration: underline
+}
+
